@@ -1,0 +1,7 @@
+¡Hola <name>! 
+
+El video de la <materia> con fecha del <date> ha sido actualizado de status a:  <status>. 
+
+Y estas son las siguientes observaciones con respecto al video: <observaciones>.
+
+¡Ten un buen día!
